@@ -1,0 +1,9 @@
+* cl-opentelemetry
+
+Some implementation of opentelemetry https://opentelemetry.io
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/K1D77A/cl-opentelemetry.git |
+| commit  | db223df                                            |
+| systems | cl-opentelemetry                                   |
+|---------+----------------------------------------------------|
